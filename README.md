@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Luis 👋</h1>
 
 <p align="center">
-  <em>Building tools at the intersection of <strong>markets</strong>, <strong>data</strong>, and <strong>AI</strong> — from London 🇬🇧</em>
+  <em>Engineering Tech Lead building systems at the intersection of <strong>markets</strong>, <strong>data</strong>, and <strong>AI</strong> — from London 🇬🇧</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisJLopez?tab=repositories"><img src="https://img.shields.io/badge/Repos-13+-181717?style=flat-square&logo=github" alt="Repos"></a>
   <img src="https://img.shields.io/badge/Focus-Quant%20%26%20Markets-0A66C2?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Based%20in-London-brightgreen?style=flat-square" alt="London">
 </p>
@@ -14,9 +13,10 @@
 
 ### 🧭 What I work on
 
+- Portfolio-management platforms, risk capabilities, and optimisation algorithms at Brit Insurance
 - 📈 **Market microstructure & trading tooling** — orderbook scanners, arbitrage detection, prediction markets
-- 🤖 **AI-powered automation** — MCP servers, scheduled market commentary bots, agent workflows
-- 🧮 **Quant & ML** — credit risk, logistic regression, backtesting, data engineering benchmarks
+- 🤖 **AI-powered automation** — AI assistants, MCP servers, scheduled market commentary bots, agent workflows
+- 🧮 **Quant & ML** — credit risk, logistic regression, backtesting, and large-scale data pipelines
 - ⚡ **Performance** — Rust for real-time streaming, Python for research and prototyping
 
 ### 🚀 Featured projects
@@ -41,15 +41,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisJLopez&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJLopez&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165">
-</p>
-
----
 
 <p align="center">
   <em>💬 Open to interesting conversations about markets, ML, and agentic tooling.</em>
