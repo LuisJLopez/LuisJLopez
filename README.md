@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/LuisJLopez?tab=repositories"><img src="https://img.shields.io/badge/Repos-44-181717?style=flat-square&logo=github" alt="44 repositories"></a>
   <img src="https://img.shields.io/badge/Focus-Quant%20%26%20Markets-0A66C2?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Based%20in-London-brightgreen?style=flat-square" alt="London">
 </p>
@@ -13,6 +14,7 @@
 
 ### 🧭 What I work on
 
+- **Currently building:** market-data tools, AI-assisted workflows, and practical explainers for quantitative finance
 - Portfolio-management platforms, risk capabilities, and optimisation algorithms at Brit Insurance
 - 📈 **Market microstructure & trading tooling** — orderbook scanners, arbitrage detection, prediction markets
 - 🤖 **AI-powered automation** — AI assistants, MCP servers, scheduled market commentary bots, agent workflows
@@ -43,5 +45,5 @@
 </p>
 
 <p align="center">
-  <em>💬 Open to interesting conversations about markets, ML, and agentic tooling.</em>
+  <em>💬 Open to interesting conversations about markets, ML, and agentic tooling. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
 </p>
