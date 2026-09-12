@@ -29,8 +29,8 @@
 | [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI bot posting financial market commentary to X — US, UK, gold, liquidity & sentiment | `Python` `LLMs` |
 | [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian — research, summarise, and file notes into your vault | `Python` `MCP` |
 | [benchmarks](https://github.com/LuisJLopez/benchmarks) | DuckDB vs Pandas vs Polars vs NumPy — head-to-head data processing benchmarks | `Python` |
-| [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) | Interactive field guide to chart patterns, entries, and risk management | `HTML` `JS` |
-| [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) | Interactive single-file tool for learning logistic regression in asset-backed finance | `HTML` `JS` |
+| [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) ([demo](https://luisjlopez.github.io/fundamental-chart-patterns/)) | Interactive field guide to chart patterns, entries, and risk management | `HTML` `JS` |
+| [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) ([demo](https://luisjlopez.github.io/logistic-regression-interactive-explainer/)) | Interactive single-file tool for learning logistic regression in asset-backed finance | `HTML` `JS` |
 
 ### 🛠️ Tech I use
 
