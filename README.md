@@ -14,14 +14,14 @@
 <summary><strong>🚀 Personal projects</strong></summary>
 
 
-| Project | What it does | Built with |
-|---|---|---|
-| [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian for research, summaries, and note-taking | `Python` `MCP` |
-| [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI-powered market commentary covering the US, UK, gold, liquidity, and sentiment | `Python` `LLMs` |
-| [Parity-Rust](https://github.com/LuisJLopez/Parity-Rust) | Real-time Polymarket orderbook scanner streaming live WebSocket data across 482+ binary markets | `Rust` `WebSockets` |
-| [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) | Single-file interactive tool for learning logistic regression in asset-backed finance | `HTML` `JavaScript` |
-| [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) | Interactive guide to chart patterns, entries, and risk management | `HTML` `JavaScript` |
-| [benchmarks](https://github.com/LuisJLopez/benchmarks) | Head-to-head DuckDB, Pandas, Polars, and NumPy data-processing benchmarks | `Python` `DuckDB` |
+| Project | What it does | Built with | Demo |
+|---|---|---|---|
+| [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian for research, summaries, and note-taking | `Python` `MCP` | — |
+| [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI-powered market commentary covering the US, UK, gold, liquidity, and sentiment | `Python` `LLMs` | — |
+| [Parity-Rust](https://github.com/LuisJLopez/Parity-Rust) | Real-time Polymarket orderbook scanner streaming live WebSocket data across 482+ binary markets | `Rust` `WebSockets` | — |
+| [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) | Single-file interactive tool for learning logistic regression in asset-backed finance | `HTML` `JavaScript` | [View demo](https://luisjlopez.github.io/logistic-regression-interactive-explainer/) |
+| [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) | Interactive guide to chart patterns, entries, and risk management | `HTML` `JavaScript` | [View demo](https://luisjlopez.github.io/fundamental-chart-patterns/) |
+| [benchmarks](https://github.com/LuisJLopez/benchmarks) | Head-to-head DuckDB, Pandas, Polars, and NumPy data-processing benchmarks | `Python` `DuckDB` | — |
 
 </details>
 
