@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luis 👋</h1>
 
 <p align="center">
-  <em>Engineer building systems at the intersection of <strong>markets</strong>, <strong>data</strong>, and <strong>AI</strong> — from London 🇬🇧</em>
+  <em>Engineer building serious systems by day, and slightly less serious experiments by night — from London 🇬🇧</em>
 </p>
 
 <p align="center">
