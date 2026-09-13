@@ -12,16 +12,15 @@
 
 ---
 
-### 🧭 What I work on & 🚀 Featured projects
+### 🧭 Current focus & selected projects
 
-| Area | Project | What it does | Stack |
+| Type | Project or focus | What it does | Stack |
 |---|---|---|---|
-| Focus | Currently building | Market-data tools, AI-assisted workflows, and practical explainers for quantitative finance | `Markets` `AI` `Quant Finance` |
-| Focus | Brit Insurance | Portfolio-management platforms, risk capabilities, and optimisation algorithms | `Risk` `Optimisation` |
-| Focus | Market microstructure & trading tooling | Orderbook scanners, arbitrage detection, and prediction markets | `Trading` `Market Data` |
-| Focus | AI-powered automation | AI assistants, MCP servers, scheduled market commentary bots, and agent workflows | `AI` `MCP` `Agents` |
-| Focus | Quant & ML | Credit risk, logistic regression, backtesting, and large-scale data pipelines | `Python` `ML` `Data` |
-| Focus | Performance | Rust for real-time streaming and Python for research and prototyping | `Rust` `Python` |
+| Focus | Portfolio platforms & risk | Portfolio-management platforms, risk capabilities, optimisation algorithms, and decision-support tools | `Python` `FastAPI` `React` `TypeScript` `TanStack` `Pydantic` `SQLAlchemy` `REST APIs` `Azure` `PostgreSQL` `Terraform` |
+| Focus | Data & quantitative systems | Credit risk, pricing, backtesting, and large-scale data pipelines | `Pandas` `Polars` `NumPy` `Pandera` `Databricks` `DuckDB` `MySQL` `MongoDB` `Redis` `Power BI` `Jupyter` |
+| Focus | Market microstructure & performance | Orderbook scanners, arbitrage detection, prediction markets, and real-time streaming | `Rust` `Python` `WebSockets` `Kafka` `RabbitMQ` `Nameko` `Celery` `Docker` `AWS` `EC2` `RDS` `S3` `GCP` `Linux` |
+| Focus | AI-powered automation | AI assistants, MCP servers, scheduled market commentary bots, and agent workflows | `Azure AI Foundry` `FastMCP` `Claude` `Codex` `GitHub Copilot` `CodeRabbit` `Cursor` |
+| Focus | Engineering platforms & delivery | Event-driven microservices, cloud infrastructure, shared UI systems, and reliable delivery | `Django` `Next.js` `Redux` `Tailwind CSS` `JavaScript` `SQL` `Bash` `Azure Functions` `Azure Durable Functions` `Azure Service Bus` `Azure API Management` `Azure Key Vault` `Azure DevOps` `Azure Artifacts` `Heroku` `Playwright` `TDD` `snapshot testing` `CI/CD` `Git` `GitLab` `GitHub Actions` `Domain-Driven Design` `Ports and Adapters` `Repository` `Unit of Work` |
 | Project | [Parity-Rust](https://github.com/LuisJLopez/Parity-Rust) | Real-time Polymarket orderbook scanner streaming live WebSocket data across 480+ binary markets | `Rust` `WebSockets` |
 | Project | [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI bot posting financial market commentary to X — US, UK, gold, liquidity & sentiment | `Python` `LLMs` |
 | Project | [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian — research, summarise, and file notes into your vault | `Python` `MCP` |
@@ -29,18 +28,6 @@
 | Project | [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) ([demo](https://luisjlopez.github.io/fundamental-chart-patterns/)) | Interactive field guide to chart patterns, entries, and risk management | `HTML` `JS` |
 | Project | [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) ([demo](https://luisjlopez.github.io/logistic-regression-interactive-explainer/)) | Interactive single-file tool for learning logistic regression in asset-backed finance | `HTML` `JS` |
 
-### 🛠️ Tech I use
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
 <p align="center">
-  <em>💬 Open to interesting conversations about markets, ML, agentic tooling or anything software / hardware related. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
+  <em>💬 Open to conversations about markets, machine learning, agentic tooling, and software or hardware. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
 </p>
