@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luis 👋</h1>
 
 <p align="center">
-  <em>Engineering Tech Lead building systems at the intersection of <strong>markets</strong>, <strong>data</strong>, and <strong>AI</strong> — from London 🇬🇧</em>
+  <em>Engineer building systems at the intersection of <strong>markets</strong>, <strong>data</strong>, and <strong>AI</strong> — from London 🇬🇧</em>
 </p>
 
 <p align="center">
@@ -12,25 +12,22 @@
 
 ---
 
-### 🧭 What I work on
+### 🧭 What I work on & 🚀 Featured projects
 
-- **Currently building:** market-data tools, AI-assisted workflows, and practical explainers for quantitative finance
-- Portfolio-management platforms, risk capabilities, and optimisation algorithms at Brit Insurance
-- 📈 **Market microstructure & trading tooling** — orderbook scanners, arbitrage detection, prediction markets
-- 🤖 **AI-powered automation** — AI assistants, MCP servers, scheduled market commentary bots, agent workflows
-- 🧮 **Quant & ML** — credit risk, logistic regression, backtesting, and large-scale data pipelines
-- ⚡ **Performance** — Rust for real-time streaming, Python for research and prototyping
-
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Parity-Rust](https://github.com/LuisJLopez/Parity-Rust) | Real-time Polymarket orderbook scanner streaming live WebSocket data across 480+ binary markets | `Rust` `WebSockets` |
-| [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI bot posting financial market commentary to X — US, UK, gold, liquidity & sentiment | `Python` `LLMs` |
-| [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian — research, summarise, and file notes into your vault | `Python` `MCP` |
-| [benchmarks](https://github.com/LuisJLopez/benchmarks) | DuckDB vs Pandas vs Polars vs NumPy — head-to-head data processing benchmarks | `Python` |
-| [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) ([demo](https://luisjlopez.github.io/fundamental-chart-patterns/)) | Interactive field guide to chart patterns, entries, and risk management | `HTML` `JS` |
-| [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) ([demo](https://luisjlopez.github.io/logistic-regression-interactive-explainer/)) | Interactive single-file tool for learning logistic regression in asset-backed finance | `HTML` `JS` |
+| Area | Project | What it does | Stack |
+|---|---|---|---|
+| Focus | Currently building | Market-data tools, AI-assisted workflows, and practical explainers for quantitative finance | `Markets` `AI` `Quant Finance` |
+| Focus | Brit Insurance | Portfolio-management platforms, risk capabilities, and optimisation algorithms | `Risk` `Optimisation` |
+| Focus | Market microstructure & trading tooling | Orderbook scanners, arbitrage detection, and prediction markets | `Trading` `Market Data` |
+| Focus | AI-powered automation | AI assistants, MCP servers, scheduled market commentary bots, and agent workflows | `AI` `MCP` `Agents` |
+| Focus | Quant & ML | Credit risk, logistic regression, backtesting, and large-scale data pipelines | `Python` `ML` `Data` |
+| Focus | Performance | Rust for real-time streaming and Python for research and prototyping | `Rust` `Python` |
+| Project | [Parity-Rust](https://github.com/LuisJLopez/Parity-Rust) | Real-time Polymarket orderbook scanner streaming live WebSocket data across 480+ binary markets | `Rust` `WebSockets` |
+| Project | [market-briefs](https://github.com/LuisJLopez/market-briefs) | Scheduled AI bot posting financial market commentary to X — US, UK, gold, liquidity & sentiment | `Python` `LLMs` |
+| Project | [mcp-vault](https://github.com/LuisJLopez/mcp-vault) | MCP server bridging Claude and Obsidian — research, summarise, and file notes into your vault | `Python` `MCP` |
+| Project | [benchmarks](https://github.com/LuisJLopez/benchmarks) | DuckDB vs Pandas vs Polars vs NumPy — head-to-head data processing benchmarks | `Python` |
+| Project | [fundamental-chart-patterns](https://github.com/LuisJLopez/fundamental-chart-patterns) ([demo](https://luisjlopez.github.io/fundamental-chart-patterns/)) | Interactive field guide to chart patterns, entries, and risk management | `HTML` `JS` |
+| Project | [logistic-regression-interactive-explainer](https://github.com/LuisJLopez/logistic-regression-interactive-explainer) ([demo](https://luisjlopez.github.io/logistic-regression-interactive-explainer/)) | Interactive single-file tool for learning logistic regression in asset-backed finance | `HTML` `JS` |
 
 ### 🛠️ Tech I use
 
@@ -45,5 +42,5 @@
 </p>
 
 <p align="center">
-  <em>💬 Open to interesting conversations about markets, ML, and agentic tooling. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
+  <em>💬 Open to interesting conversations about markets, ML, agentic tooling or anything software / hardware related. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
 </p>
