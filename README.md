@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Based%20in-London-brightgreen?style=flat-square" alt="London">
 </p>
 
-### 🛠️ Tech I use
+<details>
+<summary><strong>🛠️ Tech I use</strong></summary>
+
 
 | Category | Technologies |
 |---|---|
@@ -22,6 +24,8 @@
 | Testing & delivery | `TDD` `CI/CD` `Playwright` `snapshot testing` `Git` `GitLab` `GitHub Actions` `Jupyter` `Heroku` |
 | AI & developer tooling | `FastMCP` `GitHub Copilot` `CodeRabbit` `Cursor` `Claude` `Codex` |
 | Architecture & design | `Domain-Driven Design` `Ports and Adapters` `Repository pattern` `Unit of Work` |
+
+</details>
 
 <p align="center">
   <em>💬 Open to conversations about markets, machine learning, agentic tooling, and software or hardware. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
