@@ -43,5 +43,5 @@
 </details>
 
 <p align="center">
-  <em>💬 Open to conversations about markets, machine learning, agentic tooling, and software or hardware. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
+  <em>💬 Happy to chat about software, hardware, data, markets, or anything in between. <a href="https://linkedin.com/in/luislopez95">Connect on LinkedIn</a>.</em>
 </p>
